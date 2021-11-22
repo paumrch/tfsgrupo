@@ -1,8 +1,9 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "ACAA,AAAA,GAAG,CAAC;EACA,gBAAgB,EAAE,IAAI;EACtB,OAAO,EAAE,IAAI;CAQhB;;AAVD,AAGI,GAHD,CAGC,UAAU,CAAC;EACP,OAAO,EAAE,WAAW;EACpB,eAAe,EAAE,MAAM;CAC1B;;AANL,AAOI,GAPD,CAOC,EAAE,CAAC;EACC,WAAW,EAAE,MAAM;CACtB;;ADPL,AAAA,IAAI,CAAC;EACD,MAAM,EAAE,IAAI;CACf",
     "sources": [
-        "styles.scss"
+        "styles.scss",
+        "_navbar.scss"
     ],
     "names": [],
     "file": "styles.css"

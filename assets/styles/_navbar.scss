@@ -1,0 +1,11 @@
+nav {
+    background-color: aqua;
+    display: flex;
+    .container {
+        display: inline-flex;
+        justify-content: center;
+    }
+    ul {
+        align-items: center;
+    }
+}
